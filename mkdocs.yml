@@ -1,0 +1,17 @@
+site_name: Frontier APV
+site_url: https://kirianmladen.github.io/Frontier-apv/
+theme:
+  name: material
+  language: nl
+nav:
+  - Home: index.md
+  - APV: apv.md
+  - Wetboek: wetboek.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
