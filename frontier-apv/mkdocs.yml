@@ -1,0 +1,28 @@
+site_name: Frontier Roleplay
+site_url: https://kirianmladen.github.io/Frontier-APV/
+repo_url: https://github.com/kirianmladen/Frontier-APV
+theme:
+  name: material
+  language: nl
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Informatie: info.md
+  - Algemene Plaatselijke Verordening:
+      - APV: apv.md
+  - Wetboek AFR: wetboek.md
+  - Onderwereld Regels: onderwereld.md
+  - Hulpdiensten Regels: hulpdiensten.md
+  - Risicogebieden: risicogebieden.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+plugins:
+  - search
