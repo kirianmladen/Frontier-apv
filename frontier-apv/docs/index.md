@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Algemene Plaatselijke Verordening
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+| Organisatie | Hoge Raad Frontier|
+|-------------|----------------------|
+| Officiële naam regeling | Algemene Plaatselijke Verordening Frontier|
+| Vastgesteld door | Hoge Raad Frontier |
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! note "LET OP"
+    De onderstaande categorieën zijn richtlijnen, een staflid kan
+    ten allen tijden een andere straf bepalen. Door het joinen van
+    de server ga je automatisch akkoord met deze regels.  
+    Deze kunnen ten allen tijde aangepast worden.
